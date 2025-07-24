@@ -21,6 +21,6 @@ node {
             sh 'curl http://localhost:3002'
         }
     } finally {
-        echo 'Cleaning up...'
+        echo 'Cleaning up....'
     }
 }
